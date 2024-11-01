@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.24130116861926" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="346.24130116861926" y="0" width="38.51679585582199" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="384.7580970244412" y="0" width="25.538623539067775" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="410.296720563509" y="0" width="19.133081599578798" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="429.4298021630878" y="0" width="16.59269693673307" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="446.02249909982083" y="0" width="8.964847766891253" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="454.98734686671213" y="0" width="3.325176349683371" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.3125232163955" y="0" width="1.6874767836045261" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.1915711042552" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="346.1915711042552" y="0" width="38.57733279003434" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="384.76890389428956" y="0" width="25.53495546888643" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="410.303859363176" y="0" width="19.13033354677222" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="429.4341929099482" y="0" width="16.590313755166193" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="446.0245066651144" y="0" width="8.963560160661272" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="454.98806682577566" y="0" width="3.3246987601140927" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.3127655858898" y="0" width="1.6872344141102509" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -376,7 +376,7 @@ Furthermore for SID/STAR auto assignment I would have to manually extract all av
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Nov 2024, 11:12:04 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Nov 2024, 12:09:19 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
